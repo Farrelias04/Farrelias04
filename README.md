@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**Farrelias04/Farrelias04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                          +==+++#*=                      farrelias04@github -_________________________________________
+                        =*%%%%@%@@@%#                    . OS: ............................. Windows 11, IOS 26, Linux
+                       =%+:-*%@@@@@@@#                   . Uptime: ....................... 21 years, 7 months, 28 days
+                       +*::-+%%@@@@@@%                   . Host: ............................ University of Birmingham
+                        -==*#%@%@@@@@                    . Kernel: .............................. BSc Computer Science
+                       ::=+**##%%%%%%                    . IDE: .................................... VS Code, IntelliJ
+                        .=*+=##%%%%#                     .      
+                        :-*###%%%%%#                     . Languages.Programming: ........... Java, Python, Haskell, C
+                        -=*#%%%%%%#                      . Languages.Computer: ...................... HTML, CSS, LaTex
+                      ++**-=#%%%%%+@                     . Languages.Real: .................. English, Bahasa Malaysia
+                  +**#%%##- -##*+*%@@%%                  .    
+                *##%%%%%#%=.*%%+*#@@@@@@%%               . Hobbies.Software: ........... Web Designing, Music Curating
+               *#%%%%%%%#%*-+%#**%@@@@@@@@@@             . Hobbies.Hardware: ........... Console Modding, Bass Jamming
+              +#%%%%%%%%%@+-*@#=+@@%@@@@@@@@@            
+              *#%%%%%%%%%@#*%@#-#@@@@@@@@@@@@            – Contact -__________________________________________________
+              ##%%%%%%%%%%#*%%#+@@@@@@@@@@@@@            . Email.Personal: ................... wmredzafarrel@gmail.com
+             *#%@@%%%@@@@@%%%%%@@@@@%%%@@@@@@ #+-*       . Email.Personal: ................. wmr445@student.bham.ac.uk
+             #@@@@%%%%@@@@@%%%@@@@@@@@@@@@@@*-::=+*      . Email.Work: ............................ redza.wan@cimb.com
+            *%%@@@%%%%@@@@@%@@@@@@@@@@@@@*-:--=++++      . LinkedIn: ...................................... Wan Farrel
+            *%@@@@@%@@@@@@@%@@@@@@@@@@*-:-==++++++++     . Discord: ........................................ redzafrrl
+           #%@@@@@@%%@@@@@@@@@@@@@@*-:-=+=-+++=:-+++*    
+          *#%%@@@ %%%%%%@@@@@@@@*-:-=++++=-=+++:=++++*   – GitHub Stats -_____________________________________________
+         *#%%@@@  #%%%%%@%@@@@@@*=+++++++-+-=++++++++*   . Repos: ........ 20 {Contributed: 1} | Commits: ........ 130 
