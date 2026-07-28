@@ -1,6 +1,8 @@
 {
   "image": "https://i.pinimg.com/1200x/0c/10/25/0c1025f2bcfea06995e8bd14fda198ee.jpg",
-  "imageScale": 2,
+  "imageScale": 0.5,
+  "coloredImage": true,
+  "removeBackground": true,
   "sections": [
     {
       "title": "farrelias04",
