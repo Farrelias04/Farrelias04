@@ -1,33 +1,36 @@
 {
   "sections": [
     {
-      "title": "{{username}}@github",
+      "title": "farrelias04",
       "fields": [
-        { "key": "Name", "value": "{{name}}" },
-        { "key": "Location", "value": "{{location}}" },
-        { "key": "Created", "value": "{{created}}" },
+        { "key": "OS", "value": "Windows 11, IOS 26, Linux" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Company", "value": "{{company}}" }
+        { "key": "Host", "value": "University of Birmingham" },
+        { "key": "Kernel", "value": "BSc Computer Science" },
+        { "key": "IDE", "value": "IDEA 2025.2.4, VSCode 1.126.0" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
-        { "key": "IDE", "value": "Cursor, VSCode, Neovim" }
+        { "key": "Languages.Programming", "value": "{{languages}}" },
+        { "key": "Languages.Computer", "value": "HTML, CSS, LaTex" },
+        { "key": "Languages.Real", "value": "English, Bahasa Malaysia" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
-        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
+        { "key": "Hobbies.Software", "value": "Web Designing, Music Curating" },
+        { "key": "Hobbies.Hardware", "value": "Console Modding, Bass Jamming" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "Twitter", "value": "{{twitter}}" }
+        { "key": "Email.Personal", "value": "{{email}}" },
+        { "key": "Email.Personal", "value": "wmr445@student.bham.ac.uk" },
+        { "key": "Email.Work", "value": "redza.wan@cimb.com" },
+        { "key": "LinkedIn", "value": "Wan Farrel" },
+        { "key": "Discord", "value": "redzafrrl" }
       ]
     }
   ],
@@ -35,9 +38,7 @@
     "title": "- GitHub Stats",
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
-      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
-      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
-      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
       "loc"
     ]
   }
