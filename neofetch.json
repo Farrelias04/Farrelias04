@@ -2,7 +2,7 @@
   "image": "https://raw.githubusercontent.com/Farrelias04/Farrelias04/main/photo.png",
   "coloredImage": true,
   "imageScale": 1.5,
-  "imageOffsetY": 10,
+  "imageOffsetY": 5,
   "sections": [
     {
       "title": "farrelias04",
@@ -30,7 +30,7 @@
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email.Personal", "value": "{{email}}" },
+        { "key": "Email.Personal", "value": "wmredzafarrel@gmail.com" },
         { "key": "Email.Personal", "value": "wmr445@student.bham.ac.uk" },
         { "key": "Email.Work", "value": "redza.wan@cimb.com" },
         { "key": "LinkedIn", "value": "Wan Farrel" },
